@@ -16,7 +16,7 @@
     <description>A workbench equipped for artistic sculpting. Provides optimized workspace.</description>
     <graphicData>
       <texPath>Things/Buildings/Silj_TableSculptingMini</texPath>
-      <graphicClass>Graphic_Multi</graphicClass>`
+      <graphicClass>Graphic_Multi</graphicClass>
       <drawSize>(2.5,1.5)</drawSize>
       <damageData>
         <cornerTL>Damage/Corner</cornerTL>
